@@ -32,7 +32,7 @@ from os.path import exists
 
 listproxy = []
 
-user_id = 2055672924
+user_id = 1552965219
 	
 
 class CallingUpload:
@@ -306,7 +306,7 @@ def main():
     bot_token = os.environ.get('bot_token')
     print('init bot.')
     #set in debug
-    bot_token = '5607175216:AAGnN28Urto_dVy7oPdxGC1LeFoTxs50MuM'
+    bot_token = '5551261288:AAHjK67rpj2vvm-m-oFEgg0e5027KskArfg'
     bot = TechDevClient(bot_token)
     bot.onMessage(onmessage)
     bot.run()
