@@ -17,3 +17,4 @@ aiohttp
 yarl
 aiohttp_socks==0.7.1
 aiohttp-socks
+https://github.com/osolio/pyobigram.git
