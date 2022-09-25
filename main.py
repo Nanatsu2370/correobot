@@ -306,7 +306,7 @@ def main():
     bot_token = os.environ.get('bot_token')
     print('init bot.')
     #set in debug
-    bot_token = '5551261288:AAHjK67rpj2vvm-m-oFEgg0e5027KskArfg'
+    bot_token = '5787637254:AAGSaKEcwY9VSN_VBbp0j7RvdtCkltLonOs'
     bot = TechDevClient(bot_token)
     bot.onMessage(onmessage)
     bot.run()
